@@ -35,7 +35,7 @@ body {
     background-color: #ffebcd;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 25px;
-    box-sizing: border-box, 200px;
+    box-sizing: border-box, 150px;
 }
 
 .letter .front {
